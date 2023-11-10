@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.welcome {
+  align-items: center;
+  text-align: center;
+}
+.card{margin-left: 10%;
+    margin-right: 10%;}
+.noteCard {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.form-control {
+  background-color: lightblue;
+}
+.card-title {
+  font-size: 30px;
+  text-align: left;
+  color: blue;
+}
+.notes {
+  margin-left: 10%;
+  color: blue;
+  
+}
